@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "tickle-openid-test"
+    },
+    "tickle-openid-test": {
+      "applicationId": "9TmZ4pvNcUDLzYJ6xAmM7Sg38TR7b71OSH7S0NuP"
+    }
+  }
+}
