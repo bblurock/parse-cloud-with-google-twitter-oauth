@@ -2,10 +2,11 @@
 This project implement the basic Twitter/Google oauth login with Parse Cloud function.
 
 Parse Javascript only support Facebook login. 
-Though Parse did provide some [blogpost](https://parse.com/tutorials/adding-third-party-authentication-to-your-web-app) for people adding third-Party authentication to your Web App.
+Parse did provide some [blogpost](https://parse.com/tutorials/adding-third-party-authentication-to-your-web-app) for people adding third-Party authentication to your Web App. We make use to the create/upsert user part of that post.
+
 
 ### Oauth
-Parse Cloud Code environment is not Node.js, a vanilla library is helpful for our purpose.
+Parse Cloud Code environment is not pure Node.js, a vanilla library is helpful for our purpose.
 - [outh.js](https://oauth.googlecode.com/svn/code/javascript/)
 
 ### Documents
